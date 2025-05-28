@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RunApp" type="SpringBootApplicationConfiguration">
+    <option name="MAIN_CLASS_NAME" value="com.example.parking.ParkingApplication" />
+  </configuration>
+</component>

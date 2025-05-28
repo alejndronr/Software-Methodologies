@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RunTests" type="JUnit" factoryName="JUnit">
+    <option name="TEST_OBJECT" value="ALL_IN_PACKAGE" />
+    <option name="PACKAGE_NAME" value="com.example.parking" />
+  </configuration>
+</component>
